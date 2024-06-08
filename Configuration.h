@@ -1473,6 +1473,8 @@
 
 #endif // Z_PROBE_ALLEN_KEY
 
+
+ #define NOZZLE_TO_PROBE_OFFSET { -36.5, -40, -1 }
 /**
  * Nozzle-to-Probe offsets { X, Y, Z }
  *
